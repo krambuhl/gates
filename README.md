@@ -4,13 +4,13 @@ Gates defines logic gates function for composing more complex functions.
 
 ## Functions
 
-Gates.not
-Gates.or
-Gates.and
-Gates.nor
-Gates.nand
-Gates.xor
-Gates.xnor
+- Gates.not
+- Gates.or
+- Gates.and
+- Gates.nor
+- Gates.nand
+- Gates.xor
+- Gates.xnor
 
 ## Example
 
