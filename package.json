@@ -1,8 +1,8 @@
 {
   "name": "gates",
-  "description": "Funcational logic gates / compbinators",
+  "description": "Functional logic gates / combinators",
   "homepage": "https://github.com/krambuhl/gates",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -16,7 +16,7 @@
     "gates",
     "logic gates",
     "functional programming",
-    "functional combintators",
+    "functional combinators",
     "fp"
   ],
   "authors": [
