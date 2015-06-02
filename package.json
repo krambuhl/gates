@@ -1,0 +1,33 @@
+{
+  "name": "gates",
+  "description": "Funcational logic gates / compbinators",
+  "homepage": "https://github.com/krambuhl/gates",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "tape tests/*.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:krambuhl/gates.git"
+  },
+  "keywords": [
+    "gates",
+    "logic gates",
+    "functional programming",
+    "functional combintators",
+    "fp"
+  ],
+  "authors": [
+    "Evan Krambuhl <thekrambuhl@gmail.com>"
+  ],
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "tap-spec": "^2.1.2",
+    "tape": "^3.0.3"
+  },
+  "dependencies": {
+    "komposit": "^0.1.0"
+  }
+}
